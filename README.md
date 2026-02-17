@@ -1,7 +1,5 @@
 # DATOS PERSONALES
-
-**Juan García Fernández-Miranda**  
-**un poco lo que dicen sobre mí**  
+# **Lo que dicen sobre mí**  
  **Curioso y Directo:** No me ando con rodeos. Voy al grano y me gusta poner a prueba las capacidades de la tecnología para ver qué puede ofrecerme.
 
 **Explorador Digital:** Soy tipo de persona que no se conforma con usar las herramientas de forma superficial; buscas una conexión más personalizada y "humana".
