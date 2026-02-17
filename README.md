@@ -1,7 +1,14 @@
 # DATOS PERSONALES
 
 **Juan García Fernández-Miranda**  
-Xuangfm@gmail.com 
+**un poco lo que dicen sobre mí**  
+ **Curioso y Directo:** No me ando con rodeos. Voy al grano y me gusta poner a prueba las capacidades de la tecnología para ver qué puede ofrecerme.
+
+**Explorador Digital:** Soy tipo de persona que no se conforma con usar las herramientas de forma superficial; buscas una conexión más personalizada y "humana".
+
+**Minimalista en la Comunicación:** Prefiero la eficiencia. Una frase corta y clara suele decir más que un párrafo lleno de adornos.
+
+Soy una mente evaluadora y busco la autenticidad.
 
 # Formación académica y complementaria
 
