@@ -25,6 +25,7 @@ Soy una mente evaluadora y busco la autenticidad.
 
 . Curso de modelado y animación 3d. Inem
 </h4>
+
 ---
 
 <h2> Experiencia laboral </h2>
@@ -49,6 +50,7 @@ Soy una mente evaluadora y busco la autenticidad.
 *(Tareas de diseño, preimpresión, coordinador de montajes, ayudante en producción, serigrafía, trabajos para DTF y otros) - 2025*  </h4>
 
 ---
+
 <h2> Datos de interés </h2>
 
 <h4>. Carnet de conducir y vehículo propio.  
@@ -57,7 +59,9 @@ Soy una mente evaluadora y busco la autenticidad.
 . Deportista.  
 . Discapacidad física del 62%, que no me impide realizar con normalidad todo tipo de trabajos, y para los cuales no necesito ningún tipo de adaptación.
 </h4>
+
 ---
+
 <h2> Software </h2>
 
 <h4>Illustrator, Freehand, Indesing, Corel Draw, Photoshop, Premiere, Avid, Effects, Movie Maker, Flash, "Html", QuarqXpress, Office, 3d Maya, Sketchup, VersaStudio, entre otros... </h4>
