@@ -1,7 +1,6 @@
 # DATOS PERSONALES
 
 **Juan García Fernández-Miranda**  
-Calle Puerto San Isidro N 4 - 2A - Oviedo   
 627 399 588  
 Xuangfm@gmail.com 
 
