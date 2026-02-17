@@ -1,6 +1,7 @@
-# DATOS PERSONALES
-# **Lo que dicen sobre mí**  
- **Curioso y Directo:** No me ando con rodeos. Voy al grano y me gusta poner a prueba las capacidades de la tecnología para ver qué puede ofrecerme.
+<h1>DATOS PERSONALES</h1>
+<h3>**Lo que dicen sobre mí**</h3>
+
+ **Curioso y Directo:** No me ando con rodeos. Voy al grano y me gusta poner a prueba las capacidades de la tecnología para ver qué puede ofrecerme.  
 
 **Explorador Digital:** Soy tipo de persona que no se conforma con usar las herramientas de forma superficial; buscas una conexión más personalizada y "humana".
 
@@ -8,7 +9,8 @@
 
 Soy una mente evaluadora y busco la autenticidad.
 
-# Formación académica y complementaria
+---
+<h3> Formación académica y complementaria </h3>
 
 . Fp de grado medio de Pre-impresión en Artes Gráficas en I.E.S. Pando.   
 . Curso de diseño gráfico. Inem   
@@ -16,8 +18,8 @@ Soy una mente evaluadora y busco la autenticidad.
 . Curso edición y montaje de vídeo. Inem   
 . Curso de animación 2d. Inem  
 . Curso de modelado y animación 3d. Inem  
-
-# Experiencia laboral
+---
+<h3> Experiencia laboral </h3>
 
 . **Imprenta de la Universidad de Oviedo.**
 *(Realización de la maqueta de libros para su impresión) - 2002*  
@@ -31,14 +33,15 @@ Soy una mente evaluadora y busco la autenticidad.
 *(Tareas de diseño, preimpresión, coordinador de montajes, ayudante en producción, serigrafía, trabajos para DTF y otros) - 2023*    
 . **SCISE (Industrial serigráfica de Asturias)**
 *(Tareas de diseño, preimpresión, coordinador de montajes, ayudante en producción, serigrafía, trabajos para DTF y otros) - 2025*  
-
-# Datos de interés
+---
+<h3> Datos de interés </h3>
 
 . Carnet de conducir y vehículo propio.  
 . Idiomas: Español (Nativo) Inglés (alto) Alemán (en aprendizaje).  
 . Deportista.  
 . Discapacidad física del 62%, que no me impide realizar con normalidad todo tipo de trabajos, y para los cuales no necesito ningún tipo de adaptación.
+---
+<h3> Software </h3>
 
-# Software
 Illustrator, Freehand, Indesing, Corel Draw, Photoshop, Premiere, Avid, Effects, Movie Maker, Flash, "Html", QuarqXpress, Office, 3d Maya, Sketchup, VersaStudio, entre otros...
 
