@@ -1,7 +1,6 @@
 # DATOS PERSONALES
 
 **Juan García Fernández-Miranda**  
-627 399 588  
 Xuangfm@gmail.com 
 
 # Formación académica y complementaria
