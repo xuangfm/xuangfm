@@ -5,42 +5,41 @@ Juan García Fernández-Miranda Calle Puerto San Isidro N 4 - 2A - Oviedo 627 39
 Xuangfm@gmail.com
 ```
 # Formación académica y complementaria
-
+```
 . Fp de grado medio de Pre-impresión en Artes Gráficas en I.E.S. Pando. Año 2000 &nbsp;
 . Curso de diseño gráfico. Inem &nbsp;
 . Curso diseño web, Forem &nbsp;
 . Curso edición y montaje de vídeo, Inem  &nbsp;
 . Curso de animación 2d, Inem  &nbsp;
 . Curso de modelado y animación 3d, Inem  &nbsp;
-
+```
 # Experiencia laboral
-
-# Datos de interés
-
 ```
 I Imprenta de la Universidad de Oviedo. &nbsp;
 (Realización de la maqueta de libros para su impresión) - 2002
-SUMMA. &nbsp;
-Prácticas: (Inspección y montaje de trabajos para su correcta impresión) - 2004& nbsp;
+SUMMA.
+Prácticas: (Inspección y montaje de trabajos para su correcta impresión) - 2004
 Gráficas Naranco. 
 (Tareas de diseño, preimpresión, ploteado, manipulador de papel, reparto y otros) - 2005 - 2013
 Imprenta Rino.
-(Trabajos de serigrafía, formación en máquinas Roland) - 2017 &nbsp;
+(Trabajos de serigrafía, formación en máquinas Roland) - 2017
 Taluan Digital.
 (Tareas de diseño, preimpresión, coordinador de montajes, ayudante en producción, serigrafía,
-trabajos para DTF y otros) - 2023 &nbsp;
+trabajos para DTF y otros) - 2023
 SCISE (Industrial serigráfica de Asturias).
 (Tareas de diseño, preimpresión, coordinador de montajes, ayudante en producción, serigrafía,
-trabajos para DTF y otros) - 2025 &nbsp;
+trabajos para DTF y otros) - 2025
+```
+# Datos de interés
 ```
 . Carnet de conducir y vehículo propio. &nbsp;
 . Idiomas: Español (Nativo) Inglés (alto) Alemán (en aprendizaje). &nbsp;
 . Deportista. &nbsp;
 . Discapacidad física del 62%, que no me impide realizar con normalidad todo tipo de trabajos,
 y para los cuales no necesito ningún tipo de adaptación. &nbsp;
-
+```
 # Software
-
+```
 Illustrator, Freehand, Indesing, Corel Draw, Photoshop, Premiere, Avid, Effects, Movie Maker,
 Flash, "Html", QuarqXpress, Office, 3d Maya, Sketchup, VersaStudio, entre otros...
-
+```
