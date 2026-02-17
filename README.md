@@ -13,7 +13,7 @@ Soy una mente evaluadora y busco la autenticidad.
 
 <h2> Formación académica y complementaria </h2>
 
- Fp de grado medio de Pre-impresión en Artes Gráficas en I.E.S. Pando.  
+. Fp de grado medio de Pre-impresión en Artes Gráficas en I.E.S. Pando.  
 . Curso de diseño gráfico. Inem  
 . Curso diseño web. Forem  
 . Curso edición y montaje de vídeo. Inem  
@@ -31,16 +31,16 @@ Soy una mente evaluadora y busco la autenticidad.
 **. SUMMA.**  
 *Prácticas: (Inspección y montaje de trabajos para su correcta impresión) - 2004*  
 
-**. Gráficas Naranco**  
+**. Gráficas Naranco.**  
 *(Tareas de diseño, preimpresión, ploteado, manipulador de papel, reparto y otros) - 2005 - 2013*   
 
-**. Imprenta Rino**  
+**. Imprenta Rino.**  
 *(Trabajos de serigrafía, formación en máquinas Roland) - 2017*  
 
-**. Taluan Digital**  
+**. Taluan Digital.**  
 *(Tareas de diseño, preimpresión, coordinador de montajes, ayudante en producción, serigrafía, trabajos para DTF y otros) - 2023*    
 
-**. SCISE (Industrial serigráfica de Asturias)**  
+**. SCISE (Industrial serigráfica de Asturias).**  
 *(Tareas de diseño, preimpresión, coordinador de montajes, ayudante en producción, serigrafía, trabajos para DTF y otros) - 2025*  
 
 ---
