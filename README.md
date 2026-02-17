@@ -1,20 +1,19 @@
 # DATOS PERSONALES
 
-
 **Juan García Fernández-Miranda**
-Calle Puerto San Isidro N 4 - 2A - Oviedo 
-627 399 588
+Calle Puerto San Isidro N 4 - 2A - Oviedo   
+627 399 588  
 Xuangfm@gmail.com 
 
 # Formación académica y complementaria
-```
-. Fp de grado medio de Pre-impresión en Artes Gráficas en I.E.S. Pando. Año 2000 
-. Curso de diseño gráfico. Inem 
-. Curso diseño web, Forem 
-. Curso edición y montaje de vídeo, Inem 
+
+. Fp de grado medio de Pre-impresión en Artes Gráficas en I.E.S. Pando. Año 2000  
+. Curso de diseño gráfico. Inem   
+. Curso diseño web, Forem   
+. Curso edición y montaje de vídeo, Inem   
 . Curso de animación 2d, Inem  
 . Curso de modelado y animación 3d, Inem  
-```
+
 # Experiencia laboral
 ```
 . Imprenta de la Universidad de Oviedo.
