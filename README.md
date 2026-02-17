@@ -6,16 +6,16 @@ Xuangfm@gmail.com
 ```
 # Formación académica y complementaria
 ```
-. Fp de grado medio de Pre-impresión en Artes Gráficas en I.E.S. Pando. Año 2000 &nbsp;
-. Curso de diseño gráfico. Inem &nbsp;
-. Curso diseño web, Forem &nbsp;
-. Curso edición y montaje de vídeo, Inem  &nbsp;
-. Curso de animación 2d, Inem  &nbsp;
-. Curso de modelado y animación 3d, Inem  &nbsp;
+. Fp de grado medio de Pre-impresión en Artes Gráficas en I.E.S. Pando. Año 2000 
+. Curso de diseño gráfico. Inem 
+. Curso diseño web, Forem 
+. Curso edición y montaje de vídeo, Inem 
+. Curso de animación 2d, Inem  
+. Curso de modelado y animación 3d, Inem  
 ```
 # Experiencia laboral
 ```
-I Imprenta de la Universidad de Oviedo. &nbsp;
+I Imprenta de la Universidad de Oviedo.
 (Realización de la maqueta de libros para su impresión) - 2002
 SUMMA.
 Prácticas: (Inspección y montaje de trabajos para su correcta impresión) - 2004
@@ -32,11 +32,11 @@ trabajos para DTF y otros) - 2025
 ```
 # Datos de interés
 ```
-. Carnet de conducir y vehículo propio. &nbsp;
-. Idiomas: Español (Nativo) Inglés (alto) Alemán (en aprendizaje). &nbsp;
-. Deportista. &nbsp;
+. Carnet de conducir y vehículo propio. 
+. Idiomas: Español (Nativo) Inglés (alto) Alemán (en aprendizaje).
+. Deportista.
 . Discapacidad física del 62%, que no me impide realizar con normalidad todo tipo de trabajos,
-y para los cuales no necesito ningún tipo de adaptación. &nbsp;
+y para los cuales no necesito ningún tipo de adaptación.
 ```
 # Software
 ```
