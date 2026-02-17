@@ -6,38 +6,38 @@ Xuangfm@gmail.com
 ```
 # Formación académica y complementaria
 
-. Fp de grado medio de Pre-impresión en Artes Gráficas en I.E.S. Pando. Año 2000-
-. Curso de diseño gráfico. Inem- 600 horas
-. Curso diseño web, Forem - 600 horas
-. Curso edición y montaje de vídeo, Inem - 600 horas
-. Curso de animación 2d, Inem - 300 horas
-. Curso de modelado y animación 3d, Inem - 600 horas
+. Fp de grado medio de Pre-impresión en Artes Gráficas en I.E.S. Pando. Año 2000 &nbsp;
+. Curso de diseño gráfico. Inem &nbsp;
+. Curso diseño web, Forem &nbsp;
+. Curso edición y montaje de vídeo, Inem  &nbsp;
+. Curso de animación 2d, Inem  &nbsp;
+. Curso de modelado y animación 3d, Inem  &nbsp;
 
 # Experiencia laboral
 
 # Datos de interés
 
 ```
-I Imprenta de la Universidad de Oviedo.
+I Imprenta de la Universidad de Oviedo. &nbsp;
 (Realización de la maqueta de libros para su impresión) - 2002
-SUMMA.
-Prácticas: (Inspección y montaje de trabajos para su correcta impresión) - 2004
-Gráficas Naranco.
+SUMMA. &nbsp;
+Prácticas: (Inspección y montaje de trabajos para su correcta impresión) - 2004& nbsp;
+Gráficas Naranco. 
 (Tareas de diseño, preimpresión, ploteado, manipulador de papel, reparto y otros) - 2005 - 2013
 Imprenta Rino.
-(Trabajos de serigrafía, formación en máquinas Roland) - 2017
+(Trabajos de serigrafía, formación en máquinas Roland) - 2017 &nbsp;
 Taluan Digital.
 (Tareas de diseño, preimpresión, coordinador de montajes, ayudante en producción, serigrafía,
-trabajos para DTF y otros) - 2023
+trabajos para DTF y otros) - 2023 &nbsp;
 SCISE (Industrial serigráfica de Asturias).
 (Tareas de diseño, preimpresión, coordinador de montajes, ayudante en producción, serigrafía,
-trabajos para DTF y otros) - 202
+trabajos para DTF y otros) - 2025 &nbsp;
 ```
-. Carnet de conducir y vehículo propio.
-. Idiomas: Español (Nativo) Inglés (alto) Alemán (en aprendizaje).
-. Deportista.
+. Carnet de conducir y vehículo propio. &nbsp;
+. Idiomas: Español (Nativo) Inglés (alto) Alemán (en aprendizaje). &nbsp;
+. Deportista. &nbsp;
 . Discapacidad física del 62%, que no me impide realizar con normalidad todo tipo de trabajos,
-y para los cuales no necesito ningún tipo de adaptación.
+y para los cuales no necesito ningún tipo de adaptación. &nbsp;
 
 # Software
 
