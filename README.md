@@ -19,6 +19,7 @@ Soy una mente evaluadora y busco la autenticidad.
 · Curso edición y montaje de vídeo. Inem  
 · Curso de animación 2d. Inem  
 · Curso de modelado y animación 3d. Inem  
+· Bootcamp Data Analyst 2026, Factoría F5
 
 
 ---
