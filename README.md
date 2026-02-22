@@ -60,5 +60,5 @@ Soy una mente evaluadora y busco la autenticidad.
 
 <h2> Software </h2>
 
-Illustrator, Freehand, Indesing, Corel Draw, Photoshop, Premiere, Avid, Effects, Movie Maker, Flash, "Html", QuarqXpress, Office, 3d Maya, Sketchup, VersaStudio, entre otros..
+Illustrator, Freehand, Indesing, Corel Draw, Photoshop, Premiere, Avid, Effects, Movie Maker, Flash, "Html", QuarqXpress, Office, 3d Maya, Sketchup, VersaStudio, entre otros...
 
