@@ -1,4 +1,4 @@
-![banner](banner_github.png)
+![banner](./imgs/banner_github.png)
 
 <h1>DATOS PERSONALES</h1>
 <h2>Lo que dicen sobre mí</h2>
